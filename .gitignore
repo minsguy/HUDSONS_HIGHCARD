@@ -1,0 +1,8 @@
+# Local files - not for GitHub
+HUDSON.jpg
+CLAUDE.md
+nul
+
+# Claude Code folders
+.claude/
+.playwright-mcp/
